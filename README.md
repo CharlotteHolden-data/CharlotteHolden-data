@@ -19,7 +19,7 @@
   - 📚 Leveraging libraries like Pandas for data manipulation and visualization
 
 ## 📈 GitHub Stats 
-![Charlotte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Charlotte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlotte&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me 
 [My Tableau](https://public.tableau.com/app/profile/charlotte.holden/vizzes)
