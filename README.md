@@ -26,6 +26,11 @@
 
 I'm excited to learn and grow in the world of data analytics! Let's connect and explore the power of data together! 🚀
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **CharlotteHolden-data/CharlotteHolden-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
