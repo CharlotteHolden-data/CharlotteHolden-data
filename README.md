@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Hi there! I'm a **Data Analyst in Training** passionate about turning data into actionable insights! 📊✨
+
+### Skills:
+- **Excel** 📈: Mastering data cleaning, transformation, pivot tables, and charts with powerful functions and formulas.
+- **Tableau** 📊: Creating stunning data visualizations and utilizing calculated fields to tell compelling stories.
+- **Power BI** 📊: Proficient in Power Query for data transformation, report creation, and DAX for advanced analytics.
+- **MySQL** 🗄️: Writing basic queries using SELECT, FROM, WHERE, ORDER BY, GROUP BY, and JOINs to extract meaningful data.
+- **Python** 🐍: Leveraging libraries like Pandas, Seaborn, and Matplotlib for data manipulation and visualization.
+
+I'm excited to learn and grow in the world of data analytics! Let's connect and explore the power of data together! 🚀
 
 <!--
 **CharlotteHolden-data/CharlotteHolden-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
