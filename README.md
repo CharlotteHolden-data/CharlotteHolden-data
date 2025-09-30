@@ -25,3 +25,10 @@
 [My Tableau](https://public.tableau.com/app/profile/charlotte.holden/vizzes)
 
 I'm excited to learn and grow in the world of data analytics! Let's connect and explore the power of data together! 🚀
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CharlotteHolden-data/CharlotteHolden-data/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CharlotteHolden-data/CharlotteHolden-data/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/CharlotteHolden-data/CharlotteHolden-data/blob/output/github-contribution-grid-snake.svg" />
+</picture>
